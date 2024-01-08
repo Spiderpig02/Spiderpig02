@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Daniel Neukirch Hansen<br>🌱 I’m currently a third year computer science student at NTNU with a specialization in AI<br>🧠 I'm currently part of the NTNU Cogito student organization where I'm part of the MarketingAI team. 
+👋 Hi, I’m Daniel Neukirch Hansen<br>🌱 I’m currently a third year computer science student at NTNU with a specialization in AI<br>🧠 I'm currently part of the NTNU Cogito student organization where I'm part of the MarketingAI team
 
 
 # 💻 Tech Stack:
